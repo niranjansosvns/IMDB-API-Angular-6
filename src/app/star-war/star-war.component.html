@@ -1,0 +1,16 @@
+<div class="login-box">
+  <h1>Star War</h1><br />
+  <h2>Login to Star War</h2>
+  <form>
+    <!-- USERNAME INPUT -->
+    <label for="username">Username</label>
+    <input type="text" placeholder="Enter Username" value="{{_STARWARS.name}}"> 
+    <!-- PASSWORD INPUT -->
+    <label for="password">Password</label>
+    <input type="password" placeholder="Enter Password" value="{{_STARWARS.birth_year}}">
+    <input type="submit" value="Log In" (click)="onclick(_STARWARS.name)">
+  </form>
+</div>
+
+
+

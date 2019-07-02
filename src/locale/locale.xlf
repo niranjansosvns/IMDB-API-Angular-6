@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="b62e04a0adb5ab150b67990dc528baedbffc515e" datatype="html">
+        <source>Angular 7 Search using Debounce in RXJS 6.X.X</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/starwar-detail/starwar-detail.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
